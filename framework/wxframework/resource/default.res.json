@@ -1,0 +1,35 @@
+{
+	"groups": [
+		{
+			"name": "preload",
+			"keys": "yong_11_png,yong_3_png,yong_6_png,yong_7_png,yong_8_png"
+		}
+	],
+	"resources": [
+		{
+			"name": "yong_11_png",
+			"type": "image",
+			"url": "assets/yong_11.png"
+		},
+		{
+			"name": "yong_3_png",
+			"type": "image",
+			"url": "assets/yong_3.png"
+		},
+		{
+			"name": "yong_6_png",
+			"type": "image",
+			"url": "assets/yong_6.png"
+		},
+		{
+			"name": "yong_7_png",
+			"type": "image",
+			"url": "assets/yong_7.png"
+		},
+		{
+			"name": "yong_8_png",
+			"type": "image",
+			"url": "assets/yong_8.png"
+		}
+	]
+}

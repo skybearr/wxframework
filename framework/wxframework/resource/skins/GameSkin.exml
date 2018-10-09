@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="GameSkin" width="750" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+	<w:Config id="165470d63c3"/>
+	<e:Rect id="rect_bg" fillColor="0x868e8d" touchChildren="false" touchEnabled="false" width="750" height="1334"/>
+	<e:Label text="这里是游戏界面" verticalAlign="bottom" horizontalCenter="0" verticalCenter="0" size="88"/>
+
+
+
+
+
+
+
+
+
+
+</e:Skin>
